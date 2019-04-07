@@ -22,6 +22,7 @@ _**Check out the Scenario's above to see if you would like to help with one of t
     - A Service definition can then have a list of Platforms defined describing the Repository and Azure DevOps Build YAML to execute
     - List of any needed Azure DevOps plugins
     - Reference to the repository and Build to execute for the Load Test
+    - Located in the Root of the Infrastructure Repository
 - A Repository of those infrastructure as code assets with an Azure DevOps Build YAML 
 - Optionally a Repository for load testing artifacts with an Azure DevOps Build YAML 
 - One to many Repositories for code assets that make up the end to end Scenario
